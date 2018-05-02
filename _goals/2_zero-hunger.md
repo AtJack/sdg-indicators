@@ -1,6 +1,6 @@
 ---
-title: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
-permalink: /zero-hunger/
+title: Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern
+permalink: /kein-hunger/
 sdg_goal: 2
 colour: d3a029
 layout: goal
