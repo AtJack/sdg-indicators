@@ -1,6 +1,6 @@
 ---
-title: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
-permalink: /decent-jobs-and-economic-growth/
+title: Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern
+permalink: /menschenwürdige-arbeit-und-wirtschaftswachstum/
 sdg_goal: 8
 colour: 8f1838
 layout: goal
