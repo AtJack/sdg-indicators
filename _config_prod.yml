@@ -68,7 +68,7 @@ prose:
       - name: "sdg_goal"
         field:
             element: hidden
-            label: "SDG Goal"
+            label: "SDG Ziel"
             scope: page
       - name: "permalink"
         field:
