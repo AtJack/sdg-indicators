@@ -1,6 +1,6 @@
 ---
-title: Ensure availability and sustainable management of water and sanitation for all
-permalink: /clean-water-and-sanitation/
+title: Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+permalink: /sauberes-wasser-und-sanitärversorgung/
 sdg_goal: 6
 colour: 00aed9
 layout: goal

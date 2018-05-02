@@ -1,6 +1,6 @@
 ---
-title: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
-permalink: /peace-and-justice-strong-institutions/
+title: Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen
+permalink: /frieden-gerechtigkeit-und-starke-institutionen/
 sdg_goal: 16
 colour: 02558b
 layout: goal

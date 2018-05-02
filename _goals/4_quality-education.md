@@ -1,6 +1,6 @@
 ---
-title: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
-permalink: /quality-education/
+title: Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern
+permalink: /hochwertige-bildung/
 sdg_goal: 4
 colour: c31f33
 layout: goal
