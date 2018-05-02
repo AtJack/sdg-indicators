@@ -1,6 +1,7 @@
 ---
-title: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
-permalink: /life-on-land/
+title: Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren 
+und dem Verlust der biologischen Vielfalt ein Ende setzen
+permalink: /leben-an-land/
 sdg_goal: 15
 colour: 5dbb46
 layout: goal
